@@ -1,0 +1,9 @@
+var _user$project$Main$add = F2(
+	function (x, y) {
+		return x + y;
+	});
+var _user$project$Main$result = A2(_user$project$Main$add, 1, 2);
+var _user$project$Main$main = {
+	main: _elm_lang$html$Html$text(
+		_elm_lang$core$Basics$toString(_user$project$Main$result))
+};
