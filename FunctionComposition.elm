@@ -3,7 +3,7 @@ import String
 
 
 {-
- Composition -> Function taking multiple functions as arguments
+ Composition -> Results of one function are passes to another function
 -}
 
 model =
